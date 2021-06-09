@@ -1,0 +1,30 @@
+{
+  "name": "crudGraphQl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startServer": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandor99/crudGQL.git"
+  },
+  "keywords": [],
+  "author": "MANDO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandor99/crudGQL/issues"
+  },
+  "homepage": "https://github.com/Mandor99/crudGQL#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

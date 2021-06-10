@@ -1,0 +1,7 @@
+1. express-graphql ==>> middleware
+2. resolve function ==>> where i make DB operations
+3. rootQuery ==>> define args for queries (which i can GET/POST/DELETE/UPDATE with them)
+4. in schema file ==>>
+    1. types && (resolve to relation types)
+    2. rootQuery && (resolve to get data (which u need) from DB)
+    3. mutation && (resolve to make operation[CRUD] on DB)

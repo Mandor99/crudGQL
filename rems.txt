@@ -5,3 +5,5 @@
     1. types && (resolve to relation types)
     2. rootQuery && (resolve to get data (which u need) from DB)
     3. mutation && (resolve to make operation[CRUD] on DB)
+
+
